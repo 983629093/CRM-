@@ -70,6 +70,10 @@ public class UserContorller extends HttpServlet {
             PrintJson.printJsonObj(response, map);
             System.out.println("tan");
             String age;
+            System.out.println("友杰");
+            String name;
+
+
         }
 
     }
